@@ -1,0 +1,32 @@
+@media (max-width: 770px) {
+    .menu,
+    .logo {
+        display: none;
+    }
+
+    .mobile-menu {
+        display: block;
+    }
+
+    nav {
+        margin: 20px 0;
+    }
+
+    input {
+        width: 100%;
+    }
+
+    .contacts-form {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next,
+    .owl-carousel .owl-nav button.owl-prev {
+        display: none;
+    }
+
+    .about {
+        height: 100%;
+    }
+}
